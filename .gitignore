@@ -1,0 +1,12 @@
+.DS_Store
+
+# Process documents stay on the machine that produced them.
+docs/plans/
+docs/decisions/
+docs/verification/
+docs/evidence/
+docs/solutions/
+tasks/lessons/
+.superpowers/
+docs/superpowers/
+todos/
